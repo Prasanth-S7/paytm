@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div>
+    <div className="min-h-screen bg-black text-white">
       Hi there from merchant app
     </div>
   );
